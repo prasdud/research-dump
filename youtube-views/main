@@ -1,0 +1,16 @@
+"How YouTube Counts Views, Fights View Bots, and Tracks You More Than You Think"
+
+
+monitoring video rendering + user interaction
+
+cookies helo YT identify unique users and track their browsing behaviour
+
+youtube defines quality views that are views which meet certain criteria like
+duration - 30 seconds
+engagement - user must interact with the video : click, scroll, hover over the video player
+glitches - the video must be played without any glitches errors or technical issues
+
+
+youtube filters out repeated plays from the same IP / Device in a short time to avoid manipulation
+
+Youtube also filters suspicious views after backend processing  
